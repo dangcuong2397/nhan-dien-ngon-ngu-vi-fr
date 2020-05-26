@@ -1,0 +1,49 @@
+# the channels and playlists used for creating the dataset
+vietnam:
+  users:
+    - vtv24
+    - vtv24
+  playlists:
+    - https://www.youtube.com/playlist?list=PL1Vi4Nt_Cpb4B1UMGOu1v6rp0Vvr7BNGK
+    - https://www.youtube.com/playlist?list=PL1Vi4Nt_Cpb4r0CNaPO5kkVhvip6jA-JU
+
+french:
+  users:
+    - franceinfo
+    - france24
+  playlists:
+    - https://www.youtube.com/playlist?list=PL-qBKb-rfbhjb5QBUIYISMHZ6PvYqcC95
+    - https://www.youtube.com/channel/UCqEVwTnDzlzKOGYNFemqnYA
+
+# spanish:
+#   users:
+#     - antena3noticias
+#     - rtve
+#     - rtve
+#     - rtve
+#   playlists:
+#     - https://www.youtube.com/playlist?list=PLk8twIygnCMg6wC-qUprm9-rba-3a5Wec
+#     - https://www.youtube.com/playlist?list=PLrOLrHoKK5_Bly9FK3Df62YgWheWat493
+#     - https://www.youtube.com/playlist?list=PLk8twIygnCMgyiolRa1sC1LN1pofwQ3IC
+#     - https://www.youtube.com/playlist?list=PLegYiMN7h5_FzsQv9dQHzMeTAld7ksnIC
+    
+    
+# each language has a single short video, for script testing purposes
+
+# croatian:
+#   users:
+#     - 
+#   playlists:
+#     - https://www.youtube.com/watch?v=x9VYYGFN5x4
+
+# french:
+#   users:
+#     - 
+#   playlists:
+#     - https://www.youtube.com/watch?v=YCuU4SjcS2A
+
+# spanish:
+#   users:
+#     - 
+#   playlists:
+#     - https://www.youtube.com/watch?v=b7oKcUQbygs
